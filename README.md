@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @TiagoDMota (Tiago Dantas Mota, 21, undergraduate on software analysis and development).
 
-- 🌱 I'm currently studying C#/.NET and Web Development, Fundamentals.
+- 🌱 Currently I'm studying Database Fundamentals.
 
 - 📫 How to reach me:\
 +55 (75)9-8893-9300 (Phone/WhatsApp/Telegram)\
