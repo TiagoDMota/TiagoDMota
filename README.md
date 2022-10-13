@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @TiagoDMota (Tiago Dantas Mota, 21, undergraduate on software analysis and development).
+- 👋 Hi, I'm @TiagoDMota (Tiago Dantas Mota, 22, undergraduate on software analysis and development).
 
 - 🌱 Currently I'm studying Database Fundamentals.
 
