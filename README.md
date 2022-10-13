@@ -4,5 +4,5 @@
 
 - 📫 How to reach me:\
 +55 (75)9-8893-9300 (Phone/WhatsApp/Telegram)\
-tiago.motasaj@gmail.com (e-mail)\
+tiago.motasaj@gmail.com (E-mail)\
 www.linkedin.com/in/tiagodmdev (LinkedIn Profile).
