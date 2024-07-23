@@ -5,6 +5,6 @@
 - 💻 I.T internship at a local government institution.
 
 - 📫 How to reach me:\
-+55 (75)9-9961-2401 (Phone/WhatsApp)\
++5575999612401 (Phone/WhatsApp)\
 tiago.motasaj@gmail.com (E-mail)\
 www.linkedin.com/in/tiagodmdev (LinkedIn Profile).
